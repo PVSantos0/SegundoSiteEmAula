@@ -1,0 +1,47 @@
+.fundo-navbar{
+	background-color: #02C39A;
+	padding: 5px;
+}
+
+.img-logo{
+	height:70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 25%;
+}
+.fonte{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.navbar-menu > a{
+	padding: 10px;
+	transition: ease 0.5s;
+}
+
+.navbar-menu > a:hover{
+	color:blue;
+}
+
+a{
+	color:black;
+}
+
+.botao-cor{
+	background-color: #02C39A;
+}
+
+.imgs{
+	height:180px;
+	width:300px;
+}
+
+.formatacao{
+	text-align: justify;
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+.fotos{
+	height: 800px;
+	width: 400px;
+}

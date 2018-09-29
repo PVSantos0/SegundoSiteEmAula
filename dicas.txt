@@ -1,0 +1,3 @@
+class="img-fluid" é usado para não acontecer quebra com imagens para ficar responsivel.
+
+formspree test area -> para linkar envio de e-mails
